@@ -45,3 +45,4 @@ target/
 *.ipr
 *.iml
 *.iws
+/Examination_System/
